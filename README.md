@@ -1,2 +1,3 @@
-# girija.github.io
-Girija Behera's Data Science Repository
+# Girija Shankar Behera
+machine learning developer
+
